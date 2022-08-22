@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQE2CJZTcTSMKQ/profile-displaybackgroundimage-shrink_350_1400/0/1646542754574?e=1666828800&v=beta&t=sfqNGyiG5vlRMmFHc1jzu2wkdHm5tHm-BOgMiH_BTFM)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQE2CJZTcTSMKQ/profile-displaybackgroundimage-shrink_350_1400/0/1646542754574?e=1666828800&v=beta&t=sfqNGyiG5vlRMmFHc1jzu2wkdHm5tHm-BOgMiH_BTFM)
 <h1 align="center">Hi 👋, I'm Sourav Chakraborty</h1>
 <h3 align="center">Passionate about data analytics, data Engineering topics related with data.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1050/1*g__jiesLRIfCRefVG69Pfw.gif">
@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravchakraborty&show_icons=true&locale=en" alt="souravchakraborty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravchakraborty&" alt="souravchakraborty" /></p>
+
