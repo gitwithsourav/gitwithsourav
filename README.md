@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravchakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="souravchakraborty" /> </p>
 
-- 🔭 I’m currently working on **complex data modelling**
+- 🔭 I’m currently working on **Big Data**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Tableau**
 
 - 💬 Ask me about **data analytics, python, data engineering**
 
