@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **data analytics, python, data engineering**
 
-- 📫 How to reach me **futureakshay2@gmail.com**
+- 📫 How to reach me **souravchakraborty2496@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
